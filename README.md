@@ -112,3 +112,6 @@ We welcome contributions to improve SmartLoanChain! Please follow these steps to
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed explanation of your changes.
+
+
+For detailed methodology and architecture, see major_project_report
